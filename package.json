@@ -1,0 +1,31 @@
+{
+  "name": "zeists",
+  "displayName": "Zeists",
+  "description": "An clean dark theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zeists/visual-studio-code"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "elegant",
+    "clean"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zeists",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zeists-color-theme.json"
+      }
+    ]
+  }
+}
