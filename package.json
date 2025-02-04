@@ -3,6 +3,7 @@
   "displayName": "Zeists",
   "description": "An clean dark theme for VSCode",
   "version": "0.0.1",
+  "publisher": "ernstbecker",
   "engines": {
     "vscode": "^1.96.0"
   },
